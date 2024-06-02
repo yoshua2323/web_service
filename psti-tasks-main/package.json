@@ -1,0 +1,16 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "description": "Aplicación para gestionar tareas desplegada en Heroku utilizando Node.js, Express, MongoDB y Vue.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "autor nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "node-env-file": "^0.1.8"
+  }
+}
